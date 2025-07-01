@@ -1,7 +1,7 @@
 # 💫 About Me:
-Hi there!<br><br>I am Arses, a Dartmouth College student pursuing Computer Science and Mathematics. 
-I'm currently focused on tuning large multi-modal models and implementing Bayesian optimization techniques. 
-Eager to explore the frontiers of Agentic AI.
+Hi there!<br><br>I am Arses, a Dartmouth College student pursuing Computer Science and Mathematics. <br>
+I'm currently focused on tuning large multi-modal models and implementing Bayesian optimization techniques. <br>
+Eager to explore the frontiers of Agentic AI. 
 <br><br>Reach me at arses.prasai.28@dartmouth.edu
 
 ## 🌐 Socials:
